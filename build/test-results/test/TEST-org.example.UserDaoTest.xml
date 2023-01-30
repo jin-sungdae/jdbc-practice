@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.example.UserDaoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-30T22:40:12" hostname="sungdaeui-MacBookPro.local" time="0.362">
+<testsuite name="org.example.UserDaoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-30T22:41:35" hostname="sungdaeui-MacBookPro.local" time="0.345">
   <properties/>
-  <testcase name="createTest()" classname="org.example.UserDaoTest" time="0.362"/>
+  <testcase name="createTest()" classname="org.example.UserDaoTest" time="0.345"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
