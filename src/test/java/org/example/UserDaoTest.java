@@ -24,7 +24,7 @@ class UserDaoTest {
     void createTest() throws SQLException {
         UserDao userDao = new UserDao();
 
-        userDao.create2(new User("wizard", "password", "name", "email"));
+        userDao.create(new User("wizard", "password", "name", "email"));
 
         User user = userDao.findByUserId("wizard");
         assertThat(user).isEqualTo(new User("wizard", "password", "name", "email"));
